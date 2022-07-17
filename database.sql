@@ -1,0 +1,2 @@
+INSERT INTO `payment_methods` (`id`, `method_name`, `method_get`, `method_min`, `method_max`, `method_type`, `method_extras`, `method_line`, `nouse`) VALUES
+(31, 'UddoktaPay', 'uddoktapay', 1, 1000000, '2', '{\"method_type\":\"2\",\"name\":\"(Bkash\\/Nogod\\/Rocket\\/Upay) Bangladeshi Payment Gateway By UddoktaPay>[ 1$= 90 Taka] \",\"min\":\"1\",\"max\":\"1000000\",\"api_key\":\"982d381360a69d419689740d9f2e26ce36fb7a50\",\"api_url\":\"https:\\/\\/sandbox.uddoktapay.com\\/api\\/checkout\",\"exchange_rate\":\"90\",\"fee\":\"0\"}', 1, '2');
